@@ -12,6 +12,6 @@ Short study modules from the Modular Electronics Learning (ModEL) project, hoste
 
 | Course | Publisher | Licence |
 |---|---|---|
-| [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners) | Microsoft | MIT |
+| [IoT for Beginners](https://github.com/vertronics/IoT-For-Beginners) (original: [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners), Microsoft) | Microsoft | MIT |
 | [ML for Beginners](https://github.com/microsoft/ML-For-Beginners) | Microsoft | MIT |
 | [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) | Microsoft | MIT |
