@@ -4,9 +4,9 @@ Short study modules from the Modular Electronics Learning (ModEL) project, hoste
 
 | File | Title | Author | Licence | Original source |
 |---|---|---|---|---|
-| [model-printed-circuit-boards.pdf](model-printed-circuit-boards.pdf) | Printed Circuit Boards | Tony R. Kuphaldt | CC BY 4.0 | [ModEL project](https://www.ibiblio.org/kuphaldt/socratic/model/index.html) |
-| [model-soldering.pdf](model-soldering.pdf) | Soldering | Tony R. Kuphaldt | CC BY 4.0 | [ModEL project](https://www.ibiblio.org/kuphaldt/socratic/model/index.html) |
-| [model-plcs.pdf](model-plcs.pdf) | Programmable Logic Controllers | Tony R. Kuphaldt | CC BY 4.0 | [ModEL project](https://www.ibiblio.org/kuphaldt/socratic/model/index.html) |
+| [model-printed-circuit-boards.pdf](model-printed-circuit-boards.pdf) | Printed Circuit Boards | Tony R. Kuphaldt | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (unchanged copy) | [ModEL project](https://www.ibiblio.org/kuphaldt/socratic/model/index.html) |
+| [model-soldering.pdf](model-soldering.pdf) | Soldering | Tony R. Kuphaldt | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (unchanged copy) | [ModEL project](https://www.ibiblio.org/kuphaldt/socratic/model/index.html) |
+| [model-plcs.pdf](model-plcs.pdf) | Programmable Logic Controllers | Tony R. Kuphaldt | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (unchanged copy) | [ModEL project](https://www.ibiblio.org/kuphaldt/socratic/model/index.html) |
 
 ## Free courses (links)
 

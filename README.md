@@ -13,7 +13,8 @@ No sign-up. Browse the folders below, or use the [Resources page](https://www.ve
 
 ## Licences
 
-- **Third-party files keep their own licence.** Each folder's README names the author, the original source and the licence of every file. Nothing here is relicensed.
+- **Third-party files keep their own licence.** Each folder's README names the author, the original source and the licence of every file. Nothing here is relicensed, and the PDFs are unchanged copies.
+- **No endorsement.** Vertronics is not affiliated with or endorsed by the authors or projects credited here. Names and trademarks belong to their owners and are used only to identify their work.
 - **Text written by Vertronics** (these READMEs) is licensed under [CC BY 4.0](LICENSE.md).
 - Linked projects are not hosted here; follow the link for the project and its licence.
 
